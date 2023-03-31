@@ -1,5 +1,5 @@
 # Crawler-and-Word-cloud
-##爬取豆瓣社区关于反诈骗的评论并制作词云
+## 爬取豆瓣社区关于反诈骗的评论并制作词云
 爬取网站链接：https://m.douban.com/rexxar/api/v2/gallery/topic/325990/items?
 
 使用requests发送请求
