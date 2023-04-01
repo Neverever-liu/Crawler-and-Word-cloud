@@ -9,3 +9,5 @@ jieba库用来分词，分词器导入了中文常用语，用来对评论进行
 爬取的文件存储在excel中，采用pandas保存读取文件
 
 导入WorldCloud库用来制作词云
+
+<img src="./反诈骗词云图/词云图1.jpg" alt="Image" width="400"/>
